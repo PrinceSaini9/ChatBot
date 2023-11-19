@@ -28,7 +28,7 @@ Interactive Assistance: Integrate the chatbot into applications to provide inter
 Educational Platforms: Utilize the chatbot to create interactive learning environments, offering users a conversational approach to learning.
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/PrinceSaini9/Chatbot.git
 
 Install the necessary dependencies:
 npm install
